@@ -1,6 +1,6 @@
 # Assignment Name: Cosmetics Shop
-# Live link:
-# Code link:
+# Live link: https://beauty-cosmetics-f5d4e.web.app/
+# Code link: https://github.com/Porgramming-Hero-web-course/full-stack-client-afroza035
 # Using: 
 1.React,
 2.React router, 
